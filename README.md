@@ -42,6 +42,8 @@ Crossover安装软件，如果你是英文操作系统去搜索Chinese而不是�
 ## 添加游戏并且运行
 <img width="913" alt="image" src="add_game.png">
 
+#### 这里备注一下，可以添加游戏运行，也可以添加游戏的安装包，但是要记得在安装完后的路径下，再次去找ra2.exe，或者yuri.exe（根据红警2版本），c盘是可以在crossover里面打开的，但是不强制，也可以用Mac本地的文件，这个默认是z盘
+
 ## 配置ddraw
 ### 按照上面运行游戏的方法来运行游戏目录下的cnc-ddraw config.exe文件
 ### 这么配置防止cmd + tab后无法回去游戏黑屏
