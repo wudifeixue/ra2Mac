@@ -56,8 +56,9 @@ Crossover安装软件，如果你是英文操作系统去搜索Chinese而不是�
 ### 窗口模式效果：
 ![image](game_windowed.png)
 
-## 常见错误
-1. 去wine设置里，点击函数库（library）页面，去里面添加ddraw，没有添加ddraw就会出现这个问题，上面**修改wine配置细节**有写过
+## 红警2在Mac安装常见问题和错误
+1. Q: 红色警戒2:错误 - 无法设定显示模式  
+   A: 去wine设置里，点击函数库（library）页面，去里面添加ddraw，没有添加ddraw就会出现这个问题，上面**修改wine配置细节**有写过  
 ![image](error_resolution.png)
 
 # 末尾想说的
