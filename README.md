@@ -18,41 +18,41 @@
 
 ## 安装完毕后
 ## 先新建容器
-<img width="466" alt="image" src="/new_bottle.png">
+<img width="466" alt="image" src="new_bottle.png">
 
 # 解决中文乱码
 ## 首先来点开安装软件
-<img width="476" alt="image" src="/install.png">
+<img width="476" alt="image" src="install.png">
 
 Crossover安装软件，如果你是英文操作系统去搜索Chinese而不是中文：
-![image](/zhongwen.png)
+![image](zhongwen.png)
 
 英文选这个：
-<img width="1144" alt="image" src="/english.png">
+<img width="1144" alt="image" src="english.png">
 
 
 ## 安装完中文后要配置wine：
-<img width="439" alt="image" src="/wine_cfg.png">
+<img width="439" alt="image" src="wine_cfg.png">
 
 ## 修改wine配置细节
 ### 最重点是在wine的函数库（library)这里面加上ddraw，如图成功在下面显示出来，然后应用，并且确定
-<img width="403" alt="image" src="/wine_system.png">
-<img width="403" alt="image" src="/wine_library.png">
+<img width="403" alt="image" src="wine_system.png">
+<img width="403" alt="image" src="wine_library.png">
 
 ## 添加游戏并且运行
-<img width="913" alt="image" src="/add_game.png">
+<img width="913" alt="image" src="add_game.png">
 
 ## 配置ddraw
 ### 按照上面运行游戏的方法来运行游戏目录下的cnc-ddraw config.exe文件
 ### 这么配置防止cmd + tab后无法回去游戏黑屏
-![image](/config_ddraw.jpg)
+![image](config_ddraw.jpg)
 
 
 ### 拉伸至全屏效果：
-![image](/game_fullscreen.png)
+![image](game_fullscreen.png)
 
 ### 窗口模式效果：
-![image](/game_windowed.png)
+![image](game_windowed.png)
 
 # 末尾想说的
 至此应该已经可以跑起来任何红警2的游戏了  
