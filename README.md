@@ -4,7 +4,7 @@
 - macOS Sonoma目前它在beta版本
 - 红警2游戏
 ## 需要下载的文件
-下载crossover混合Game Porting Toolkit需要的工具：https://github.com/elisezhu123/Crossover_gpt_patch/releases
+下载crossover混合Game Porting Toolkit需要的工具：[https://github.com/elisezhu123/Crossover_gpt_patch/releases](https://github.com/elisezhu123/Crossover_gpt_patch/releases)
 分别安装
 1. [Command_Line_Tools_for_Xcode_15_beta_2.dmg(自己去苹果那边下载这个最多目前beta3)](https://github.com/elisezhu123/Crossover_gpt_patch/releases/download/v1.04/Command_Line_Tools_for_Xcode_15_beta_2.dmg)
 2. [gstreamer-1.0-1.22.4-universal.pkg](https://github.com/elisezhu123/Crossover_gpt_patch/releases/download/v1.04/gstreamer-1.0-1.22.4-universal.pkg)  
@@ -60,6 +60,6 @@ Crossover安装软件，如果你是英文操作系统去搜索Chinese而不是�
 也一下就跑起来了pc版原神（有点草地小显示bug还在研究怎么解决，和m2 air带起来吃力）  
 用这个魔改的crossover加上game porting toolkit比官方的超级命令行和步骤要方便很多，但是官方的实在是太慢也很麻烦，尤其是中文部分和一些c++, .net还有字体依赖都很难解决，想装依赖就按照装中文的那部去搜索依赖就好了
 
-感谢处之漠然 https://space.bilibili.com/131564072 在@3Shain群里的鼎力帮助，大家可以去关注她写的攻略和视频，虽然比较长但是也挺有干货的 
+感谢处之漠然 [https://space.bilibili.com/131564072](https://space.bilibili.com/131564072) 在[@3Shain](https://github.com/3shain)群里的鼎力帮助，大家可以去关注她写的攻略和视频，虽然比较长但是也挺有干货的 
     
-以及这份儿魔改crossover+game porting toolkit工具是她写的@elisezhu123
+以及这份儿魔改crossover+game porting toolkit工具是她写的[@elisezhu123](https://github.com/elisezhu123)
